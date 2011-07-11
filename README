@@ -1,0 +1,6 @@
+Developer: Michael West
+
+This is a simple script that identifies and removes all VIM swap files
+found in the current directory.
+
+
